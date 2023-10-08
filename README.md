@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GatmanVitalie
-- 👀 I’m interested in GameDevelopment and Simulations
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in GameDevelopment and Competitve Programing
+- 🌱 I’m currently learning C++ and Pascal(for school)
+- 💞️ I’m looking to collaborate on any project you want
 - 📫 How to reach me ...
 
 <!---
