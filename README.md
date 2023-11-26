@@ -7,7 +7,7 @@
 - 🌐 Language proficiency: English (C1), Russian (B1), Romanian (C2 - native).
 - ❓ Not a sports enthusiast, average drawing skills, and my handwriting is a work in progress.
 - 🤝 Open to collaboration on exciting projects.
-- 📫 Reach me at gatman.vitalie2019@gmail.com (please don't spam me).
+- 📫 Reach me at gatman.vitalie2019@gmail.com or by my phone number 37360301607 (please don't spam me).
 
 
 <!---
